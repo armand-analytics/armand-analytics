@@ -24,13 +24,13 @@ Welcome to my Github page! I am Armand and I am currently finishing my Master in
 <code><img width="10%" src="https://github.com/armand-analytics/images/blob/main/pytho.svg"></code>
 <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/excel-svgrepo-com.svg"></code>
 <br />
-<code><img width="10%" src="https://github.com/armand-analytics/images/blob/main/qlik-svgrepo-com.svg"></code>
-<code><img width="10%" src="https://github.com/armand-analytics/images/blob/main/qlik-svgrepo-com.svg"></code>
-<code><img width="10%" src="https://github.com/armand-analytics/images/blob/main/azure-svgrepo-com.svg"></code>
+<code><img width="5%" src="https://github.com/armand-analytics/images/blob/main/qlik-svgrepo-com.svg"></code>
+<code><img width="5%" src="https://github.com/armand-analytics/images/blob/main/cognos-analytics-svgrepo-com.svg"></code>
+<code><img width="5%" src="https://github.com/armand-analytics/images/blob/main/azure-svgrepo-com.svg"></code>
 <br />
-<code><img width="10%" src="https://github.com/armand-analytics/images/blob/main/aws-svgrepo-com.svg"></code>
-<code><img width="10%" src="https://github.com/armand-analytics/images/blob/main/airflow-svgrepo-com.svg"></code>
-<code><img width="10%" src="https://github.com/armand-analytics/images/blob/main/git.svg"></code>
+<code><img width="5%" src="https://github.com/armand-analytics/images/blob/main/aws-svgrepo-com.svg"></code>
+<code><img width="5%" src="https://github.com/armand-analytics/images/blob/main/airflow-svgrepo-com.svg"></code>
+<code><img width="5%" src="https://github.com/armand-analytics/images/blob/main/git.svg"></code>
 </p>
 
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
