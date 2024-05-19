@@ -44,6 +44,7 @@ Welcome to my Github page! I am Armand and
 
 ```python
 def get_ashraf_details():
+
     return {
         "pronouns": "He/Him",
         "ask_me_about": ["Datascience", "Analytics", "Visualizations"],
@@ -56,6 +57,4 @@ def get_ashraf_details():
         "foundations": ['Linear Algebra', 'Statistics', 'Optimization', 'Dynamics']
     }
 
-# Example usage
-ashraf = get_ashraf_details()
-print(ashraf)
+print(Myself = get_ashraf_details())
