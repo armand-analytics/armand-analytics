@@ -42,28 +42,26 @@ Welcome to my Github page! I am Armand and
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```python
-# ashraf.py
+# Details.py
 
 def get_my_details():
 	if answer=='Y':
     return {
-        "pronouns": "He/Him",
-        "ask_me_about": ["Datascience", "Analytics", "Visualizations"],
-        "technologies": {
-            "back_end": ["Python"],
-            "front_end": ["CSS"],
-            "database": ["MySQL", "Oracle"],
-            "visual_frameworks": ["Matplotlib", "Seaborn"]
+        'pronouns': 'He/Him',
+        'ask_me_about': ['Datascience', 'Analytics', 'Visualizations'],
+        'technologies': {
+            'back_end': ['Python'],
+            'front_end': ['CSS'],
+            'database': ['MySQL', 'Oracle'],
+            'visual_frameworks': ['Matplotlib', 'Seaborn']
         },
-        "foundations": ['Linear Algebra', 'Statistics', 'Optimization', 'Dynamics']
+        'foundations': ['Linear Algebra', 'Statistics', 'Optimization', 'Dynamics']
     }
-	else:
-        return False
+
 def main():
-    my_info = get_ashraf_details()
+    my_info = get_my_details()
     print(my_info)
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
-```
+
