@@ -38,4 +38,21 @@ Welcome to my Github page! I am Armand and
   <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/scikit-learn.svg" alt="Scikit-Learn"></code>
   <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/Pandas.svg" alt="Pandas"></code>
 </p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```Python
+ashraf = {
+    "pronouns": "He/Him",
+    "askMeAbout": ["Datascience", "Analytics", "visualizations"],
+    "technologies": {
+        "backEnd": ["python"],
+        "frontEnd": ["css"],
+        "database": ["mySQL", "Oracle"],
+        "visual frameworks": ["Matplotlib", "Seaborn"],
+        ]
+    },
+    "Fundations": ["Linear Algebra", "Statistics", "Optimization", "Dynamics"]
+}
+
+```
 
