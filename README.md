@@ -6,7 +6,7 @@
 
 Welcome to my Github page! I am Armand and I am currently finishing my Master in Economics at UNAM!  
 
-<img align="right" alt="img" src="https://github.com/armand-analytics/ml-repo/blob/main/me2.png" width="50%" height="auto" />
+<img align="right" alt="img" width="80%" src="https://github.com/armand-analytics/ml-repo/blob/main/me2.png" width="50%" height="auto" />
 
 
 #### 📝 Things I am currently working on: 
