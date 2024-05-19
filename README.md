@@ -9,14 +9,14 @@ Welcome to my Github page! I am Armand and I am currently finishing my Master in
 <img align="right" alt="img" src="https://github.com/armand-analytics/ml-repo/blob/main/me2.png" width="50%" height="auto" />
 
 
-#### 🌱 Things I am currently working on: 
-- Writing my disertation
-- Taking online courses about cloud and data engineering 
-#### :muscle: Things I am challenging myself with:
-- Do some exercise every day
-- Coding at least 3 hours a day
+#### 📝 Things I am currently working on: 
+- Writing my disertation 📘
+- Taking online courses about cloud and data engineering 👨‍🎓
+#### Things I am challenging myself with:
+- Do some exercise every day 💪
+- Coding at least 3 hours a day 💻
 
-#### :computer: Programming languages and tools: 
+#### Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Armand-analytics&show_icons=true&hide_border=true" />
   
