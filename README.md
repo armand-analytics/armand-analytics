@@ -17,7 +17,7 @@ Welcome to my Github page! I am Armand and
 - Taking online courses about cloud and data engineering 👨‍🎓
 #### Things I am challenging myself with:
 - Do some exercise every day 💪
-- Coding at least 3 hours a day 💻
+- Coding at least 3 hours a day 👨‍💻
 
 #### Programming languages and tools: 
 <p>
