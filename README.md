@@ -19,21 +19,21 @@ Welcome to my Github page! I am Armand and I am currently finishing my Master in
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+  
+  <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/sql-file-format-symbol-svgrepo-com.svg" alt="SQL"></code>
+  <code><img width="10%" src="https://github.com/armand-analytics/images/blob/main/pytho.svg" alt="Python"></code>
+  <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/excel-svgrepo-com.svg" alt="Excel"></code>
+  <br />
+  <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/qlik-svgrepo-com.svg" alt="Qlik"></code>
+  <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/cognos-analytics-svgrepo-com.svg" alt="Cognos"></code>
+  <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/airflow-svgrepo-com.svg" alt="Airflow"></code>
+  <code><img width="10%" src="https://github.com/armand-analytics/images/blob/main/git.svg" alt="Git"></code>
+  <br />
+  <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/azure-svgrepo-com.svg" alt="Azure"></code>
+  <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/aws-svgrepo-com.svg" alt="AWS"></code>
+  <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/Linux.svg" alt="Linux"></code>
+  <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/scikit-learn.svg" alt="Scikit-Learn"></code>
+  <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/Pandas.svg" alt="Pandas"></code>
+</p>
 
-<code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/sql-file-format-symbol-svgrepo-com.svg"></code>
-<code><img width="10%" src="https://github.com/armand-analytics/images/blob/main/pytho.svg"></code>
-<code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/excel-svgrepo-com.svg"></code>
-<br />
-<code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/qlik-svgrepo-com.svg"></code>
-<code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/cognos-analytics-svgrepo-com.svg"></code>
-<code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/azure-svgrepo-com.svg"></code>
-<br />
-<code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/aws-svgrepo-com.svg"></code>
-<code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/airflow-svgrepo-com.svg"></code>
-<code><img width="10%" src="https://github.com/armand-analytics/images/blob/main/git.svg"></code>
-</p>
-<code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/Linux.svg"></code>
-<code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/scikit-learn.svg"></code>
-<code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/Pandas.svg"></code>
-</p>
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
