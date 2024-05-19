@@ -42,15 +42,15 @@ Welcome to my Github page! I am Armand and
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```c++
+```Python
 ashraf = {
-    "pronouns": "He/Him",
-    "askMeAbout": ["Datascience", "Analytics", "visualizations"],
-    "technologies": {
-        "backEnd": ["python"],
-        "frontEnd": ["css"],
-        "database": ["mySQL", "Oracle"],
-        "visual frameworks": ["Matplotlib", "Seaborn"],
+    pronouns: "He/Him",
+    askMeAbout: ["Datascience", "Analytics", "visualizations"],
+    technologies: {
+        backEnd: ["python"],
+        frontEnd: ["css"],
+        database: ["mySQL", "Oracle"],
+        visualFrameworks: ["Matplotlib", "Seaborn"],
         ]
     },
     "Fundations": ["Linear Algebra", "Statistics", "Optimization", "Dynamics"]
