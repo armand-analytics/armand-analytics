@@ -45,7 +45,8 @@ Welcome to my Github page! I am Armand and
 ```python
 # ashraf.py
 
-def get_ashraf_details():
+def get_my_details():
+	if answer=='Y':
     return {
         "pronouns": "He/Him",
         "ask_me_about": ["Datascience", "Analytics", "Visualizations"],
@@ -57,10 +58,11 @@ def get_ashraf_details():
         },
         "foundations": ['Linear Algebra', 'Statistics', 'Optimization', 'Dynamics']
     }
-
+	else:
+        return False
 def main():
-    ashraf_info = get_ashraf_details()
-    print(ashraf_info)
+    my_info = get_ashraf_details()
+    print(my_info)
 
 if __name__ == "__main__":
     main()
