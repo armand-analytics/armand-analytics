@@ -53,7 +53,7 @@ ashraf = {
         visualFrameworks: ["Matplotlib", "Seaborn"],
         ]
     },
-    "Fundations": ["Linear Algebra", "Statistics", "Optimization", "Dynamics"]
+    Fundations: ['Linear Algebra', 'Statistics', 'Optimization', 'Dynamics']
 }
 
 ```
