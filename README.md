@@ -1,10 +1,11 @@
-### Hi this is Armand!
+## Hi this is Armand!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/armand-analytics/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atadeog/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alterback@gmail.com)
 
-Welcome to my Github page! I am Armand and I am currently finishing my Master in Economics at UNAM!  
+Welcome to my Github page! I am Armand and 
+*I am currently finishing my Master in Economics at UNAM!*
 
 <img align="right" alt="img" width="50%" src="https://github.com/armand-analytics/ml-repo/blob/main/me2.png" width="50%" height="auto" />
 
