@@ -21,8 +21,8 @@ Welcome to my Github page! I am Armand and I am currently finishing my Master in
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
 
 <code><img width="5%" src="https://github.com/armand-analytics/images/blob/main/sql-file-format-symbol-svgrepo-com.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<code><img width="10%" src="https://github.com/armand-analytics/images/blob/main/pytho.svg"></code>
+<code><img width="8%" src="https://github.com/armand-analytics/images/blob/main/excel-svgrepo-com.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
