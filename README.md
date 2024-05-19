@@ -43,8 +43,9 @@ Welcome to my Github page! I am Armand and
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```python
-def get_ashraf_details():
+# ashraf.py
 
+def get_ashraf_details():
     return {
         "pronouns": "He/Him",
         "ask_me_about": ["Datascience", "Analytics", "Visualizations"],
@@ -57,4 +58,10 @@ def get_ashraf_details():
         "foundations": ['Linear Algebra', 'Statistics', 'Optimization', 'Dynamics']
     }
 
-print(Myself = get_ashraf_details())
+def main():
+    ashraf_info = get_ashraf_details()
+    print(ashraf_info)
+
+if __name__ == "__main__":
+    main()
+```
