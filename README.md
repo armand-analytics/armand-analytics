@@ -42,19 +42,22 @@ Welcome to my Github page! I am Armand and
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```Python
-ashraf = {
-    pronouns: "He/Him",
-    askMeAbout: ["Datascience", "Analytics", "visualizations"],
-    technologies: {
-        backEnd: ["python"],
-        frontEnd: ["css"],
-        database: ["mySQL", "Oracle"],
-        visualFrameworks: ["Matplotlib", "Seaborn"],
-        ]
-    },
-    Fundations: ['Linear Algebra', 'Statistics', 'Optimization', 'Dynamics']
-}
+### :bust_in_silhouette: About Ashraf
 
-```
+```python
+def get_ashraf_details():
+    return {
+        "pronouns": "He/Him",
+        "ask_me_about": ["Datascience", "Analytics", "Visualizations"],
+        "technologies": {
+            "back_end": ["Python"],
+            "front_end": ["CSS"],
+            "database": ["MySQL", "Oracle"],
+            "visual_frameworks": ["Matplotlib", "Seaborn"]
+        },
+        "foundations": ['Linear Algebra', 'Statistics', 'Optimization', 'Dynamics']
+    }
 
+# Example usage
+ashraf = get_ashraf_details()
+print(ashraf)
