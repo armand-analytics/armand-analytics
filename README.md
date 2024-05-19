@@ -5,6 +5,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alterback@gmail.com)
 
 Welcome to my Github page! I am Armand and 
+<br />
+
 *I am currently finishing my Master in Economics at UNAM!*
 
 <img align="right" alt="img" width="50%" src="https://github.com/armand-analytics/ml-repo/blob/main/me2.png" width="50%" height="auto" />
