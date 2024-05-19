@@ -42,8 +42,6 @@ Welcome to my Github page! I am Armand and
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-### :bust_in_silhouette: About Ashraf
-
 ```python
 def get_ashraf_details():
     return {
