@@ -18,7 +18,7 @@ Welcome to my Github page! I am Armand and I am currently finishing my Master in
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Armand-analytics&show_icons=true&hide_border=true" />
   
   <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/sql-file-format-symbol-svgrepo-com.svg" alt="SQL"></code>
   <code><img width="10%" src="https://github.com/armand-analytics/images/blob/main/pytho.svg" alt="Python"></code>
@@ -36,4 +36,3 @@ Welcome to my Github page! I am Armand and I am currently finishing my Master in
   <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/Pandas.svg" alt="Pandas"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
