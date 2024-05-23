@@ -47,12 +47,13 @@ X='Yes'
 def get_my_details():
     if X=='Yes':
         return {
-            'ask_me_about':['ML', 'A.I.',  'Data Analysis', 'Visualizations', 'Economic Theory'],
+            'ask_me_about':['ML', 'A.I.',  'Data Analysis',
+			    'Visualizations', 'Economic Theory'],
             'technologies': {
                 'back_end': ['Python'],
                 'front_end': ['CSS', 'LaTeX'],
                 'database': ['MySQL', 'Oracle'],
-                'visual_frameworks': ['Matplotlib', 'Seaborn']
+                'visual': ['Matplotlib','Seaborn']
             },
             'foundations': ['Linear Algebra', 'Statistics', 'Optimization', 'Dynamics']
         }
