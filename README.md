@@ -26,12 +26,12 @@ Welcome to my Github page! I am Armand and
   
   <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/sql-file-format-symbol-svgrepo-com.svg" alt="SQL"></code>
   <code><img width="10%" src="https://github.com/armand-analytics/images/blob/main/pytho.svg" alt="Python"></code>
-  <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/excel-svgrepo-com.svg" alt="Excel"></code>
+  <code><img width="3%" src="https://github.com/armand-analytics/images/blob/main/excel-svgrepo-com.svg" alt="Excel"></code>
   <br />
   <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/qlik-svgrepo-com.svg" alt="Qlik"></code>
   <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/cognos-analytics-svgrepo-com.svg" alt="Cognos"></code>
-  <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/airflow-svgrepo-com.svg" alt="Airflow"></code>
-  <code><img width="10%" src="https://github.com/armand-analytics/images/blob/main/git.svg" alt="Git"></code>
+  <code><img width="3%" src="https://github.com/armand-analytics/images/blob/main/airflow-svgrepo-com.svg" alt="Airflow"></code>
+  <code><img width="8%" src="https://github.com/armand-analytics/images/blob/main/git.svg" alt="Git"></code>
   <br />
   <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/azure-svgrepo-com.svg" alt="Azure"></code>
   <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/aws-svgrepo-com.svg" alt="AWS"></code>
