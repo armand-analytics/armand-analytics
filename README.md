@@ -43,20 +43,20 @@ Welcome to my Github page! I am Armand and
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```Python
 Details.py
-
+X='Yes'
 def get_my_details():
-	if answer=='Y':
-    return {
-        'pronouns': 'He/Him',
-        'ask_me_about': ['Datascience', 'Analytics', 'Visualizations'],
-        'technologies': {
-            'back_end': ['Python'],
-            'front_end': ['CSS'],
-            'database': ['MySQL', 'Oracle'],
-            'visual_frameworks': ['Matplotlib', 'Seaborn']
-        },
-        'foundations': ['Linear Algebra', 'Statistics', 'Optimization', 'Dynamics']
-    }
+    if X=='Yes':
+        return {
+            'ask_me_about':['ML', 'A.I.',  'Data Analysis', 'Visualizations', 'Economic Theory'],
+            'technologies': {
+                'back_end': ['Python'],
+                'front_end': ['CSS', 'LaTeX'],
+                'database': ['MySQL', 'Oracle'],
+                'visual_frameworks': ['Matplotlib', 'Seaborn']
+            },
+            'foundations': ['Linear Algebra', 'Statistics', 'Optimization', 'Dynamics']
+        }
+    else: print('Bye!')
 
 def main():
     my_info = get_my_details()
