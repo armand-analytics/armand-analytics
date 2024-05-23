@@ -4,6 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atadeog/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alterback@gmail.com)
 
+
 Welcome to my Github page! I am Armand and 
 <br />
 
@@ -43,22 +44,18 @@ Welcome to my Github page! I am Armand and
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```Python
 #Details.py
-X='Yes'
+#X='Yes'
 def get_my_details():
-    if X=='Yes':
-        return {
-            'ask_me_about':['ML', 'A.I.',  'Data Analysis',
-			    'Visualizations', 'Economic Theory'],
-            'technologies': {
-                'back_end': ['Python'],
-                'front_end': ['CSS', 'LaTeX'],
-                'database': ['MySQL', 'Oracle'],
-                'visual': ['Matplotlib','Seaborn']
-            },
-            'foundations': ['Linear Algebra', 'Statistics', 'Optimization', 'Dynamics']
-        }
-    else: print('Bye!')
-
+    return {
+        'ask_me_about':['ML','A.I.','Analysis','Economics'],
+        'technologies': {
+            'back_end': ['Python'],
+            'front_end': ['CSS', 'LaTeX'],
+            'database': ['MySQL', 'Oracle'],
+            'visual': ['Matplotlib','Seaborn']
+        },
+        'foundations': ['Linear Algebra', 'Statistics', 'Optimization', 'Dynamics']
+    }
 def main():
     my_info = get_my_details()
     print(my_info)
