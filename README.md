@@ -22,7 +22,7 @@ Welcome to my Github page! I am Armand and
 
 #### Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Armand-analytics&show_icons=true&hide_border=true" />
+	
   
   <code><img width="4%" src="https://github.com/armand-analytics/images/blob/main/sql-file-format-symbol-svgrepo-com.svg" alt="SQL"></code>
   <code><img width="10%" src="https://github.com/armand-analytics/images/blob/main/pytho.svg" alt="Python"></code>
